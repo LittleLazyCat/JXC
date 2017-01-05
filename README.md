@@ -1,3 +1,3 @@
 # JXC
-author:OliverCasser
-Invoicing management system 
+author:OliverCasser</br>
+project:Invoicing management system 
