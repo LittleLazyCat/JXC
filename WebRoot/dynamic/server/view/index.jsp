@@ -116,6 +116,6 @@ a:active {text-decoration:none; color:red;}	/* 正在被点击的链接 */
 	<div region="west" style="width: 150px;" title="导航菜单" split="true">
 		<ul id="tree"></ul>
 	</div>
-	<div region="south" style="height: 25px;" align="center">版权所有<a href="http://www.java1234.com" target="_blank">www.java1234.com</a></div>
+	<div region="south" style="height: 25px;" align="center">版权所有<a href="http://www.txey.cn/" target="_blank">http://www.txey.cn/</a></div>
 </body>
 </html>

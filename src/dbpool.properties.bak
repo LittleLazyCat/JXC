@@ -4,7 +4,7 @@ driverClassName=com.mysql.jdbc.Driver
 # 账号
 username=root
 # 密码
-password=root
+password=hjj
 # 路径
 url=jdbc:mysql://localhost:3306/jxc
 # 连接池的大小
